@@ -84,7 +84,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:rgba(0,0,0,.2);
 }
 
 .myButton:active {
@@ -92,7 +92,7 @@ img {
     top:1px;
 }
 .project {
-  box-shadow:0 0px 1px 0 rgb(0 0 0 / 40%);  
+  box-shadow:0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
 
